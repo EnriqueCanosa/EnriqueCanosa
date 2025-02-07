@@ -5,9 +5,7 @@
 Me chamo Enrique Canosa, tenho 24 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FMU.
 Tenho experiência em desenvolvimento web e suporte técnico. Tenho habilidades em desenvolvimento web pages, estruturação de dados, conhecimento corporativo. Com um perfil voltado à resolução de problemas e adaptabilidade, busco aprimorar minhas habilidades técnicas e interpessoais, contribuindo positivamente empresas. Atualmente, estou cursando o 5 semestre de Tecnologia em Análise e Desenvolvimento de Sistemas e possuo experiência prática com  C, Java, PHP, Python, JavaScript, WorldPress, Elementor, MySQL.
 
-Linkedin: https://www.linkedin.com/in/enriquecanosa/
 
-Instagram:  
 
 <p align="left">
     <a href="developercanosa@outlook.com">
@@ -15,6 +13,13 @@ Instagram:
             alt="Email" 
             title="Entre em Contato" 
             src="https://custom-icon-badges.demolab.com/badge/%20Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge&labelColor=CE4630"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/enriquecanosa/">
+        <img 
+            alt="LinkedIn" 
+            title="Conecte-se no LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2"
         />
     </a>
     <a href="https://www.instagram.com/enrique_canosa?igsh=bW1oc284YnNnM3B0">
