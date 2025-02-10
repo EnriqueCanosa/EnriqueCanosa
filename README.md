@@ -8,11 +8,11 @@ Tenho experiência em desenvolvimento web e suporte técnico. Tenho habilidades 
 
 
 <p align="left">
-    <a href="developercanosa@outlook.com">
+     <a href="mailto:developercanosa@outlook.com?subject=Contato&body=Olá,%20gostaria%20de%20entrar%20em%20contato.">
         <img 
-            alt="Email" 
-            title="Entre em Contato" 
-            src="https://custom-icon-badges.demolab.com/badge/%20Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            alt="Enviar email" 
+            title="Entre em contato" 
+            src="https://custom-icon-badges.demolab.com/badge/-Enviar%20Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
     <a href="https://www.linkedin.com/in/enriquecanosa/">
