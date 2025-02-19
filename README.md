@@ -3,7 +3,7 @@
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
 Me chamo Enrique Canosa, tenho 24 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FMU.
-Tenho experiência em desenvolvimento web e suporte técnico. Tenho habilidades em desenvolvimento web pages, estruturação de dados, conhecimento corporativo. Com um perfil voltado à resolução de problemas e adaptabilidade, busco aprimorar minhas habilidades técnicas e interpessoais, contribuindo positivamente empresas. Atualmente, estou cursando o 5 semestre de Tecnologia em Análise e Desenvolvimento de Sistemas e possuo experiência prática com  C, Java, PHP, Python, JavaScript, WorldPress, Elementor, MySQL.
+Tenho experiência em desenvolvimento web e suporte técnico. Tenho habilidades em desenvolvimento web pages, estruturação de dados, conhecimento corporativo. Com um perfil voltado à resolução de problemas e adaptabilidade, busco aprimorar minhas habilidades técnicas e interpessoais, contribuindo positivamente empresas. Atualmente, estou cursando o 5 semestre de Tecnologia em Análise e Desenvolvimento de Sistemas e possuo experiência prática com  C, Java, PHP, Python, JavaScript, WorldPress, Elementor, MySQL, Git.
 
 
 
@@ -122,7 +122,14 @@ Tenho experiência em desenvolvimento web e suporte técnico. Tenho habilidades 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
-
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
 <br/>
 <br/>
 
