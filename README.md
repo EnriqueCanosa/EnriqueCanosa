@@ -139,14 +139,14 @@ Tenho experiência em desenvolvimento web e suporte técnico. Tenho habilidades 
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=EnriqueCanosa&show_icons=true&theme=blueberry&include_all_commits=true&locale=pt-br" 
   />
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqueCanosa&theme=blueberry&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
