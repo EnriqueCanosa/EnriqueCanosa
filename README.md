@@ -37,7 +37,7 @@ Tenho experiência em desenvolvimento web e suporte técnico. Tenho habilidades 
             src="https://custom-icon-badges.demolab.com/github/stars/EnriqueCanosa?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/EnriqueCanosa?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
